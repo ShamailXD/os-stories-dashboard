@@ -21,10 +21,7 @@
             },
           "tacker": {
 	    "blueprint": "multi-site-vim",
-	    "spec": "needed"
-            },
-          },
-        },
+	    "spec": "needed"},
     "newCollector": {
       "cross-project spec": "needed",
       "gerrit-topic": "ro-newcollecter",
@@ -33,8 +30,10 @@
         "ceilometer": {
           "blueprint": "needed",
           "spec": "needed"
-        },
-      },
-    },
+            }
+          }
+        }
+      }
+    }
   }
 }
